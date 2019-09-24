@@ -89,7 +89,7 @@ Interested in showing your support for Catalyst Network?  Tweet us @catalystNetO
 
 - [Reddit](https://www.reddit.com/r/CatalystNet/)
 
--  [Live chat on Slack](https://catalystnet.slack.com)
+-  [Live chat on Slack](https://join.slack.com/t/catalystnet/shared_invite/enQtNjA5MzM5NDk3MzgyLTQyYTZmMDlhMjc3ODRkODRhNTU2Njk0M2FlOGRhNjRhNzkyZGExYjUyODBkODQ1ODBkYjA2YzUwZDdjMTZiYzY)
 
 - [Telegram](https://t.me/CatalystNetOrg)
 
