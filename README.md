@@ -1,53 +1,25 @@
-
 # Catalyst Network Developer Community
-
-## Table of Contents
-
--  [About](#about)
-
--  [People](#people)
-
--  [Stats](#stats)
-
--  [Events](#events)
-
--  [Swag](#swag)
-
--  [Contributing Guidelines](#contributing-guidelines)
-
--  [Code](#code)
-
--  [How to Help](#how-to-help)
-
--  [Stay Informed and Engaged!](#stay-informed-and-engaged)
-
- 
-## About
 
 Welcome to Catalyst Network's global community! 
 
 This guide is designed to help you learn what resources are available and get started contributing.
 
 We welcome builders, creators, hackers, writers and contributors of all kinds.
- 
 
-## People
+**Table of Contents**
+<!-- TOC -->
 
-Catalyst Network is made up of experts in engineering, software and business, from some of the most progressive companies in the world.
+  - [Events](#events)
+    - [Calendar](#calendar)
+  - [How to Contribute](#how-to-contribute)
+  - [Contributing Guidelines](#contributing-guidelines)
+  - [Contributor License Agreement](#contributor-license-agreement)
+  - [Code](#code)
+  - [Swag](#swag)
+  - [Stay informed and engaged!](#stay-informed-and-engaged)
 
-Together, we’re deliver a range of products and services solving blockchain’s biggest challenges.
+<!-- /TOC -->
 
-Here are some of the great people participating in our project:
-
-
-## Events
-
-### Calendar
-
-We maintain a calendar for community events hosted and organised by Catalyst Network and supporters. Any community member is welcome to attend or submit an event.
-
-*  [Catalyst Network Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
-  
 ## How to Contribute
 
 -  **Contribute code** - all Catalyst Network software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
@@ -62,15 +34,16 @@ We maintain a calendar for community events hosted and organised by Catalyst Net
 
 ## Contributing Guidelines
 
-You should reffer to the specific project repositories contributing guide this can be found in the CONTRIBUTING.md file in the root of the repository. This may have more specific guidence on code styles and the bylaws of that perticular project.
+You should refer to the specific project repositories contributing guide, which can be found in the `CONTRIBUTING.md` file in the root of each repository. This may have more specific guidance on code styles and the bylaws of that particular project.
 
-For a generic overview of contributing to Catalyst Network projects you can view our;
+For a generic overview of contributing to Catalyst Network projects you can view our:
 
 * [General Contributing Guidelines](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md)
 
 * [Contributor Code of Conduct](https://github.com/catalyst-network/Community/blob/master/contributor-code-of-conduct.md)
 
 ## Contributor License Agreement
+
 You must sign a Contribution License Agreement (CLA) before your pull request will be merged. This a one-time requirement for contributing to Catalyst Network projects. You can read more about [Contributor License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) (CLA) on Wikipedia.
 
 Signing the CLA doesn't have to be done up-front, it is only required for your pull request to be merged. You can clone, fork, and submit your pull request as usual.
@@ -81,20 +54,32 @@ If you're interested in Catalyst Network projects, here are the main software re
 
 HOLD TIGHT THEY'RE COMING
 
+## Events
+
+### Calendar
+
+We maintain a calendar for community events hosted and organised by Catalyst Network and supporters. Any community member is welcome to attend or submit an event.
+
+*  [Catalyst Network Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
+
 ## Swag
 
-Interested in showing your support for Catalyst Network?  Tweet us @catalystNetOrg
+Interested in showing your support for Catalyst Network?  Tweet us [@catalystNetOrg](https://twitter.com/catalystNetOrg).
 
 ## Stay informed and engaged!
 
 - [Reddit](https://www.reddit.com/r/CatalystNet/)
 
--  [Live chat on Slack](https://join.slack.com/t/catalystnet/shared_invite/enQtNjA5MzM5NDk3MzgyLTQyYTZmMDlhMjc3ODRkODRhNTU2Njk0M2FlOGRhNjRhNzkyZGExYjUyODBkODQ1ODBkYjA2YzUwZDdjMTZiYzY)
+- [Live chat on Slack](https://join.slack.com/t/catalystnet/shared_invite/enQtNjA5MzM5NDk3MzgyLTQyYTZmMDlhMjc3ODRkODRhNTU2Njk0M2FlOGRhNjRhNzkyZGExYjUyODBkODQ1ODBkYjA2YzUwZDdjMTZiYzY)
 
 - [Telegram](https://t.me/CatalystNetOrg)
 
--  [Catalyst Network Medium](https://medium.com/catalystnetorg)!
+- [Catalyst Network Medium](https://medium.com/catalystnetorg)!
 
--  [Twitter](https://twitter.com/catalystNetOrg)
+- [Twitter](https://twitter.com/catalystNetOrg)
 
 - [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
+
+## License
+
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0 license](LICENSE) © 2019 Catalyst Network Community.
