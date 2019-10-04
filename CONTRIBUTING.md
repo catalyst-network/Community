@@ -2,35 +2,13 @@
 
 Thanks for being willing to contribute!
 
-- [Help Needed](#help-needed)
-- [Making Changes](#making-changes)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Engineering Guidelines](#development-setup)
+- [Code of Conduct](#code-of-conduct)
 
-## [](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#help-needed)Help needed
+@catalyst-network is a growing open source community, and as such there is a lot of room for contributions. We welcome any and all help: commenting on issues, jumping on our Discord, opening issues, opening PRs, and so on. Jump right in.
 
-Please checkout the  [ROADMAP](https://github.com/catalyst-network/community/blob/master/docs/ROADMAP.md)  and raise an issue to discuss any of the items
-
-## [](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#making-changes)Making Changes
-
-- All changes should follow the [pull request guidelines](https://github.com/catalyst-network/Community/blob/master/PULL_REQUEST_TEMPLATE.md)
-
-### [](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#committing-and-pushing-changes)Committing and Pushing changes
-
-Once you are ready to commit the changes, please use the below commands
-
-1.  `git add <files to be comitted>`
-2.  `git commit -m 'A meaningful message`
-
-_Note: please use present tense in commit messages i.e.  `Add feature X`  and not_ `Added feature X`
-
-### [](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#add-yourself-as-a-contributor)Add yourself as a contributor
-
-This project follows the  [all contributors](https://github.com/kentcdodds/all-contributors)  specification. To add yourself to the table of contributors on the README.md, please use the automated script as part of your PR:
-
-npm run contributor <YOUR_GITHUB_USERNAME>
-
-Follow the prompt. If you've already added yourself to the list and are making a new type of contribution, you can run it again and select the added contribution type. If you need to edit the  `.all-contributorsrc`  file by hand that's fine too, just run  `npm run contributor:generate`  to regenerate the table
+If you would like to help but don't know how, get in touch on our Discord. We'd love to help you out.
 
 # Issue Reporting Guidelines
 
@@ -46,7 +24,7 @@ Please remember to do the following:
 -   Search the issue repository to see if there exists a duplicate.
 -   Simplify your code around the issue so we can better isolate the problem.
 
-### [](https://github.com/catalyst-network/community/submitting-bugs-and-suggestions.md#before-submitting-an-issue)Before Submitting an Issue
+### Before Submitting an Issue
 
 First, please do a search for open issues in the issue tab to see if the issue or feature request has already been filed.
 
@@ -59,6 +37,10 @@ If you find your issue already exists, make relevant comments and add your react
 If you cannot find an existing issue that describes your bug or feature, submit an issue using the [issue template](https://github.com/catalyst-network/Community/blob/master/ISSUE_TEMPLATE.md).
 
 
-## [](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#engineering-guidelines)Engineering Guidelines
+# Engineering Guidelines
 
 1.  Follow the Catalyst Network Engineering Guidelines https://github.com/catalyst-network/Community/wiki/Engineering-Guidelines
+
+# Code of Conduct
+
+Note that every interaction on GitHub or elsewhere within the Catalyst community must conform to the [Catalyst Code of Conduct](CODE-OF-CONDUCT.md). Please take a look at it, as you agree to follow it by being part of this community.
