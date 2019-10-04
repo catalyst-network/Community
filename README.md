@@ -1,4 +1,3 @@
-
 # Catalyst Network Developer Community
 
 ## Table of Contents
@@ -98,3 +97,7 @@ Interested in showing your support for Catalyst Network?  Tweet us @catalystNetO
 -  [Twitter](https://twitter.com/catalystNetOrg)
 
 - [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
+
+## License
+
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0 license](LICENSE) © 2019 Catalyst Network Community.
