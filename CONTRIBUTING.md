@@ -43,4 +43,4 @@ If you cannot find an existing issue that describes your bug or feature, submit 
 
 # Code of Conduct
 
-Note that every interaction on GitHub or elsewhere within the Catalyst community must conform to the [Catalyst Code of Conduct](CODE-OF-CONDUCT.md). Please take a look at it, as you agree to follow it by being part of this community.
+Note that every interaction on GitHub or elsewhere within the Catalyst community must conform to the [Catalyst Code of Conduct](CODE_OF_CONDUCT.md). Please take a look at it, as you agree to follow it by being part of this community.
