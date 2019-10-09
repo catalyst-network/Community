@@ -1,5 +1,7 @@
 # Catalyst Network Developer Community
 
+[![Discord](https://img.shields.io/discord/629667101774446593?color=blueviolet&label=discord)](https://discord.gg/anTP7xm)
+
 Welcome to Catalyst Network's global community! 
 
 This guide is designed to help you learn what resources are available and get started contributing.
