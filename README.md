@@ -15,7 +15,6 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
     - [Calendar](#calendar)
   - [How to Contribute](#how-to-contribute)
   - [Contributing Guidelines](#contributing-guidelines)
-  - [Contributor License Agreement](#contributor-license-agreement)
   - [Code](#code)
   - [Swag](#swag)
   - [Stay informed and engaged!](#stay-informed-and-engaged)
@@ -44,12 +43,6 @@ For a generic overview of contributing to Catalyst Network projects you can view
 
 * [Contributor Code of Conduct](https://github.com/catalyst-network/Community/blob/master/contributor-code-of-conduct.md)
 
-## Contributor License Agreement
-
-You must sign a Contribution License Agreement (CLA) before your pull request will be merged. This a one-time requirement for contributing to Catalyst Network projects. You can read more about [Contributor License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) (CLA) on Wikipedia.
-
-Signing the CLA doesn't have to be done up-front, it is only required for your pull request to be merged. You can clone, fork, and submit your pull request as usual.
-
 ## Code
 
 If you're interested in Catalyst Network projects, here are the main software repositories you should checkout:
@@ -71,15 +64,8 @@ Interested in showing your support for Catalyst Network?  Tweet us [@catalystNet
 ## Stay informed and engaged!
 
 - [Reddit](https://www.reddit.com/r/CatalystNet/)
-
-- [Live chat on Slack](https://join.slack.com/t/catalystnet/shared_invite/enQtNjA5MzM5NDk3MzgyLTQyYTZmMDlhMjc3ODRkODRhNTU2Njk0M2FlOGRhNjRhNzkyZGExYjUyODBkODQ1ODBkYjA2YzUwZDdjMTZiYzY)
-
-- [Telegram](https://t.me/CatalystNetOrg)
-
 - [Catalyst Network Medium](https://medium.com/catalystnetorg)!
-
 - [Twitter](https://twitter.com/catalystNetOrg)
-
 - [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
 
 ## License
