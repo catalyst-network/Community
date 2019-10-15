@@ -3,8 +3,10 @@
 Thanks for being willing to contribute!
 
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
-- [Engineering Guidelines](#development-setup)
+  - [Before Submitting an Issue](#before-submitting-an-issue)
+- [Engineering Guidelines](#engineering-guidelines)
 - [Code of Conduct](#code-of-conduct)
+- [Contributor License Agreement](#contributor-license-agreement)
 
 @catalyst-network is a growing open source community, and as such there is a lot of room for contributions. We welcome any and all help: commenting on issues, jumping on our Discord, opening issues, opening PRs, and so on. Jump right in.
 
@@ -44,3 +46,9 @@ If you cannot find an existing issue that describes your bug or feature, submit 
 # Code of Conduct
 
 Note that every interaction on GitHub or elsewhere within the Catalyst community must conform to the [Catalyst Code of Conduct](CODE_OF_CONDUCT.md). Please take a look at it, as you agree to follow it by being part of this community.
+
+# Contributor License Agreement
+
+You must sign a Contribution License Agreement (CLA) before your pull request will be merged. This a one-time requirement for contributing to Catalyst Network projects. You can read more about [Contributor License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) (CLA) on Wikipedia.
+
+Signing the CLA doesn't have to be done up-front, it is only required if you submit a pull request on GitHub to be merged. You can clone, fork, and submit your pull request as usual. We use [cla-assistant](https://cla-assistant.io/), a bot, to manage these. It will automatically ping you when your PRs are of a certain size.
