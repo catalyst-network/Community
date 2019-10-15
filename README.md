@@ -1,6 +1,12 @@
-# Catalyst Network Developer Community
+<div align="center">
+  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/catalyst-network/Community/master/media-pack/logo.png" width="400px" />
+
+  **Catalyst Community**
 
 [![Discord](https://img.shields.io/discord/629667101774446593?color=blueviolet&label=discord)](https://discord.gg/anTP7xm)
+
+</div>
+
 
 Welcome to Catalyst Network's global community! 
 
