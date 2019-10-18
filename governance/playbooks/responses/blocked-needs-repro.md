@@ -1,6 +1,6 @@
 Thank you for taking the time to report this issue and helping to make Catalyst Network better.
 
-Would it be possible for you to fork [electron-quick-start](https://github.com/electron/electron-quick-start) for a small app that reproduces the issue by itself?
+Would it be possible for you to fork [catalyst-framework-quick-start](https://github.com/catalyst-network/Catalyst.Framework#quick-start-guide) for a small app that reproduces the issue by itself?
 
 Standalone test cases make fixing issues go more smoothly: it ensure everyone's looking at the same issue, it removes all unneccessary variables from the equation, and it can also provide the basis for automated regression tests.
 
