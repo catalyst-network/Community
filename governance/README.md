@@ -33,7 +33,7 @@ The Catalyst governance system is comprised of Working Groups that oversee diffe
 * A _maintainer_ is anyone who plays an active role in governance.
 * A _collaborator_ is active in the community, but not in governance.
 * A _participant_ is anyone who is a maintainer or collaborator.
-* A _working group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
+* A _working group_ is a group of maintainers that are formed to take responsibility for certain aspects of the Catalyst Foundation. Normally these groups will meet regularly but in some cases will only meet as required to fulfil their responsibilities.
 * A [_chair_](charter/README.md#Leadership) leads a working group.
 
 ## Responsibilities
