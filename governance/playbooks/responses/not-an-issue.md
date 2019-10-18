@@ -1,1 +1,1 @@
-GitHub issues are for feature requests and bug reports, questions about using Electron or code assistance requests should be directed to the [community](https://github.com/electron/electron#community).
+GitHub issues are for feature requests and bug reports, questions about using Electron or code assistance requests should be directed to the [Catalyst Community](https://github.com/catalyst-network/Community/).
