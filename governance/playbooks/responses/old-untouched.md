@@ -2,7 +2,7 @@ Thank you for taking the time to report this issue and helping to make
 Electron better.
 
 We are sorry that we do not always have the capacity to look at all reported
-issues in a timely manner. There have been many changes in Electron since
+issues in a timely manner. There have been many changes in Catalyst since
 this issue was reported and it may have been fixed in that time.
 
 The version of Catalyst this issue was reported on, {{VERSION}},
