@@ -1,4 +1,4 @@
-Thank you for taking the time to report this issue and helping to make Electron better.
+Thank you for taking the time to report this issue and helping to make Catalyst Network better.
 
 Would it be possible for you to fork [electron-quick-start](https://github.com/electron/electron-quick-start) for a small app that reproduces the issue by itself?
 
