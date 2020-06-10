@@ -6,7 +6,7 @@ Oversees all technical aspects of the Catalyst Network
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/nshCore.png" width=100 alt="@nshCore">  | James Kirby [@nshCore](https://github.com/nshCore) | **Chair** | GMT-1 (London) |
+| <img src="https://github.com/switch1983.png" width=100 alt="@nshCore">  | Darren Oliveiro-Priestnall [@switch1983](https://github.com/switch1983) | **Chair** | GMT-1 (London) |
 
 ## Areas of Responsibility
 
