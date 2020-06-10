@@ -95,7 +95,7 @@ Interested in showing your support for Catalyst Network?  Tweet us [@catalystpro
 ## Stay informed and engaged!
 
 - [Discord](https://discord.gg/3JmXRXv)
-- [Twitter](https://twitter.com/catalystNetOrg)
+- [Twitter](https://twitter.com/catalystprot)
 - [Catalyst Network Medium](https://medium.com/catalystnetorg)!
 - [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
 
