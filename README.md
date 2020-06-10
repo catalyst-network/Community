@@ -3,9 +3,9 @@
 
   ### Catalyst Community
  
-[![Discord](https://img.shields.io/discord/629667101774446593?color=blueviolet&label=discord)](https://discord.gg/3JmXRXv)
-[![GitHub stars](https://img.shields.io/github/stars/catalyst-network/community?style=social)](https://github.com/catalyst-network/protocol-protobuffs/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/catalystnetorg?style=social)](https://twitter.com/catalystprot)
+[![Discord](https://img.shields.io/discord/713661828239982683?color=blueviolet&label=discord)](https://discord.gg/3JmXRXv)
+[![GitHub stars](https://img.shields.io/github/stars/catalyst-network/community?style=social)](https://github.com/catalyst-network/Catalyst/stargazers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/catalystprot?style=social)](https://twitter.com/catalystprot)
 </div>
 
 Welcome to Catalyst Network's global community! 
