@@ -6,7 +6,7 @@ Oversees the Catalyst economy.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| Chris  | Chris | **Chair** | GMT-1 (London) |
+| <img src="https://github.com/Joseph-Christopherson.png" width=100 alt="@nshCore">  | Joseph Christopherson [@Joseph-Christopherson](https://github.com/Joseph-Christopherson) | **Chair** | GMT-1 (London) |
 
 ## Areas of Responsibility
 
