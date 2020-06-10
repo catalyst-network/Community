@@ -36,12 +36,13 @@ If you find your issue already exists, make relevant comments and add your react
 
 👎 - downvote
 
-If you cannot find an existing issue that describes your bug or feature, submit an issue using the [issue template](https://github.com/catalyst-network/Community/blob/master/ISSUE_TEMPLATE.md).
-
+To view a complete list of issues and to file new issues or feature requests using templates please go to the main project issue page
+[Catalyst issue page](https://github.com/catalyst-network/Catalyst/issues).
 
 # Engineering Guidelines
 
-1.  Follow the Catalyst Network Engineering Guidelines https://github.com/catalyst-network/Community/wiki/Engineering-Guidelines
+Engineering guidelines are still to come.
+In the meantime you can find some documentation in the [Wiki](https://catalyst-network.github.io/Catalyst/articles/Home.html)
 
 # Code of Conduct
 
