@@ -3,11 +3,9 @@
 
   ### Catalyst Community
  
-[![Discord](https://img.shields.io/discord/629667101774446593?color=blueviolet&label=discord)](https://discord.gg/anTP7xm)
-![GitHub followers](https://img.shields.io/github/followers/catalyst-network?style=social)
+[![Discord](https://img.shields.io/discord/629667101774446593?color=blueviolet&label=discord)](https://discord.gg/3JmXRXv)
 [![GitHub stars](https://img.shields.io/github/stars/catalyst-network/community?style=social)](https://github.com/catalyst-network/protocol-protobuffs/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/catalystnetorg?style=social)](https://twitter.com/catalystnetorg)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/catalystnet?style=social)](https://reddit.com/r/catalystnet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/catalystnetorg?style=social)](https://twitter.com/catalystprot)
 </div>
 
 Welcome to Catalyst Network's global community! 
@@ -33,7 +31,7 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
 
 -  **Contribute code** - all Catalyst Network software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
 
--  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Catalyst Network to run the software and file issues in the appropriate repository for any bugs that are found. Read our [submitting bugs and suggestions guide](https://github.com/catalyst-network/Community/blob/master/submitting-bugs-and-suggestions.md)
+-  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Catalyst Network to run the software and file issues in the appropriate repository for any bugs that are found. Read our [submitting bugs and suggestions guide](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md#issue-reporting-guidelines)
 
 -  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Catalyst Network repos, start writing and expanding on the docs, and submit a pull request
 
@@ -49,13 +47,38 @@ For a generic overview of contributing to Catalyst Network projects you can view
 
 * [General Contributing Guidelines](https://github.com/catalyst-network/community/blob/master/CONTRIBUTING.md)
 
-* [Contributor Code of Conduct](https://github.com/catalyst-network/Community/blob/master/contributor-code-of-conduct.md)
+* [Contributor Code of Conduct](https://github.com/catalyst-network/Community/blob/master/CODE_OF_CONDUCT.md)
 
 ## Code
 
 If you're interested in Catalyst Network projects, here are the main software repositories you should checkout:
 
-HOLD TIGHT THEY'RE COMING
+* [Main Catalyst Protocol](https://github.com/catalyst-network/Catalyst)
+
+* [Rust library providing ffi for functionality from dalek-cryptography](https://github.com/catalyst-network/Catalyst-rs)
+
+* [Catalyst Wallet](https://github.com/catalyst-network/Catalyst-wallet)
+
+* [Javascript libraries for developing on Catalyst](https://github.com/catalyst-network/Catalyst-js)
+
+* [Protobuff definitions for Catalyst Network](https://github.com/catalyst-network/Protocol)
+
+* [Toolkit for developing Solidity smart contracts in Visual Studio Code](https://github.com/catalyst-network/Cat-Blockchain-Toolkit)
+
+* [Toolkit for developing Solidity smart contracts in Visual Studio Code](https://github.com/catalyst-network/catalyst-vscode)
+
+* [A block explorer for the Catalyst Network](https://github.com/catalyst-network/expedition)
+
+* [Node Dashboard](https://github.com/catalyst-network/node-dashboard)
+
+* [Catalyst Protocol Whitepaper](https://github.com/catalyst-network/whitepaper)
+
+* [Catalyst Network Research Papers](https://github.com/catalyst-network/Research)
+
+* [Catalyst Community Website](https://github.com/catalyst-network/catalystnetwork.github.io)
+
+* [Catalyst governance DAO](https://github.com/catalyst-network/KatalDAO)
+
 
 ## Events
 
@@ -67,13 +90,13 @@ We maintain a calendar for community events hosted and organised by Catalyst Net
 
 ## Swag
 
-Interested in showing your support for Catalyst Network?  Tweet us [@catalystNetOrg](https://twitter.com/catalystNetOrg).
+Interested in showing your support for Catalyst Network?  Tweet us [@catalystprot](https://twitter.com/catalystprot).
 
 ## Stay informed and engaged!
 
-- [Reddit](https://www.reddit.com/r/CatalystNet/)
-- [Catalyst Network Medium](https://medium.com/catalystnetorg)!
+- [Discord](https://discord.gg/3JmXRXv)
 - [Twitter](https://twitter.com/catalystNetOrg)
+- [Catalyst Network Medium](https://medium.com/catalystnetorg)!
 - [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
 
 ## License
