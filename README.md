@@ -17,8 +17,6 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
 **Table of Contents**
 <!-- TOC -->
 
-  - [Events](#events)
-    - [Calendar](#calendar)
   - [How to Contribute](#how-to-contribute)
   - [Contributing Guidelines](#contributing-guidelines)
   - [Code](#code)
@@ -78,15 +76,6 @@ If you're interested in Catalyst Network projects, here are the main software re
 * [Catalyst Community Website](https://github.com/catalyst-network/catalystnetwork.github.io)
 
 * [Catalyst governance DAO](https://github.com/catalyst-network/KatalDAO)
-
-
-## Events
-
-### Calendar
-
-We maintain a calendar for community events hosted and organised by Catalyst Network and supporters. Any community member is welcome to attend or submit an event.
-
-*  [Catalyst Network Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
 
 ## Swag
 
