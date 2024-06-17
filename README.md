@@ -91,4 +91,4 @@ Interested in showing your support for Catalyst Network?  Tweet us [@catalystpro
 
 ## License
 
-This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0 license](LICENSE) © 2019 Catalyst Network Community.
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0 license](LICENSE) © 2024 Catalyst Network Community.
