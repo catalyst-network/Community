@@ -1,11 +1,5 @@
 <div align="center">
   <img alt="ReDoc logo" src="https://raw.githubusercontent.com/catalyst-network/Community/master/media-pack/logo.png" width="400px" />
-
-  ### Catalyst Community
- 
-[![Discord](https://img.shields.io/discord/713661828239982683?color=blueviolet&label=discord)](https://discord.gg/3JmXRXv)
-[![GitHub stars](https://img.shields.io/github/stars/catalyst-network/community?style=social)](https://github.com/catalyst-network/Catalyst/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/catalystprot?style=social)](https://twitter.com/catalystprot)
 </div>
 
 Welcome to Catalyst Network's global community! 
@@ -20,8 +14,6 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
   - [How to Contribute](#how-to-contribute)
   - [Contributing Guidelines](#contributing-guidelines)
   - [Code](#code)
-  - [Swag](#swag)
-  - [Stay informed and engaged!](#stay-informed-and-engaged)
 
 <!-- /TOC -->
 
@@ -51,43 +43,21 @@ For a generic overview of contributing to Catalyst Network projects you can view
 
 If you're interested in Catalyst Network projects, here are the main software repositories you should checkout:
 
-* [Main Catalyst Protocol](https://github.com/catalyst-network/Catalyst)
+* [Main Catalyst Protocol](https://github.com/catalyst-network/catalyst-node-rust)
 
-* [Rust library providing ffi for functionality from dalek-cryptography](https://github.com/catalyst-network/Catalyst-rs)
-
-* [Catalyst Wallet](https://github.com/catalyst-network/Catalyst-wallet)
-
-* [Javascript libraries for developing on Catalyst](https://github.com/catalyst-network/Catalyst-js)
-
-* [Protobuff definitions for Catalyst Network](https://github.com/catalyst-network/Protocol)
+* [Catalyst Wallet](https://github.com/catalyst-network/web_wallet)
 
 * [Toolkit for developing Solidity smart contracts in Visual Studio Code](https://github.com/catalyst-network/Cat-Blockchain-Toolkit)
 
 * [Toolkit for developing Solidity smart contracts in Visual Studio Code](https://github.com/catalyst-network/catalyst-vscode)
 
-* [A block explorer for the Catalyst Network](https://github.com/catalyst-network/expedition)
-
-* [Node Dashboard](https://github.com/catalyst-network/node-dashboard)
+* [A block explorer for the Catalyst Network](https://github.com/catalyst-network/block-explorer)
 
 * [Catalyst Protocol Whitepaper](https://github.com/catalyst-network/whitepaper)
 
 * [Catalyst Network Research Papers](https://github.com/catalyst-network/Research)
 
 * [Catalyst Community Website](https://github.com/catalyst-network/catalystnetwork.github.io)
-
-* [Catalyst governance DAO](https://github.com/catalyst-network/KatalDAO)
-
-## Swag
-
-Interested in showing your support for Catalyst Network?  Tweet us [@catalystprot](https://twitter.com/catalystprot).
-
-## Stay informed and engaged!
-
-- [Discord](https://discord.gg/3JmXRXv)
-- [Twitter](https://twitter.com/catalystprot)
-- [New Catalyst Network Medium](https://medium.com/catalystprotocol)!
-- [Old Catalyst Network Medium](https://medium.com/catalystnetorg)!
-- [Linkedin](https://www.linkedin.com/company/catalyst-network/about/)
 
 ## License
 
